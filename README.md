@@ -26,3 +26,4 @@ The data analysis is made inside a Jupyter notebook with Python and additional l
 
 ## Changelog
 1. 18-06-2023: Initial release
+2. 19-06-2023: Adding missing objective on Cost of the Product in background and adding displot title
